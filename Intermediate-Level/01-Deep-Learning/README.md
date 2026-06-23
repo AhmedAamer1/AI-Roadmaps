@@ -1,11 +1,11 @@
 # 01-Deep-Learning
 
-## Courses
+## Main is Arabic
 
 | Course | Link |
 |----------|------|
 | Deep Learning DR khaled Mostafa | https://www.youtube.com/watch?v=ihLa9gZVZlw&list=PL5JZLxl_tFCcgAv9x2eXeX0_2TLRMnHUg&index=2 |
-| Learn PyTorch | https://www.learnpytorch.io/ |
+| Learn PyTorch  | https://www.learnpytorch.io/ |
 
 ## Topics
 
@@ -32,8 +32,11 @@
 
 - TensorFlow
 - Keras
+- PyTorch
 
-OR
+# OR
+
+## English
 
 | Course | Link |
 |----------|------|
