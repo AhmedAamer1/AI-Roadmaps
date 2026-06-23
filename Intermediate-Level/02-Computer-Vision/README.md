@@ -5,12 +5,8 @@
 
 | Course | Framework |
 |----------|-----------|
-| Dr. Khaled Mostafa Elsayed Computer Vision Playlist | TensorFlow/Keras |
+| Dr. Khaled Mostafa Elsayed Computer Vision Playlist | https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKsXhL3a0tR2jW6zL0pS2L |
 | Ultralytics YOLO | https://docs.ultralytics.com/ |
-
-Playlist:
-
-https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKsXhL3a0tR2jW6zL0pS2L
 
 ---
 
