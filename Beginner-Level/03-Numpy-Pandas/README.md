@@ -1,4 +1,4 @@
-#03-NumPy & Pandas 📊
+03-NumPy & Pandas 📊
 
 ## Courses
 
