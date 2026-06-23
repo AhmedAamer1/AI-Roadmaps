@@ -4,6 +4,13 @@
 
 | Course | Link |
 |----------|------|
+| Deep Learning DR khaled Mostafa | https://www.youtube.com/watch?v=ihLa9gZVZlw&list=PL5JZLxl_tFCcgAv9x2eXeX0_2TLRMnHUg&index=2 |
+| Learn PyTorch | https://www.learnpytorch.io/ |
+
+OR
+
+| Course | Link |
+|----------|------|
 | Deep Learning Specialization | https://www.coursera.org/specializations/deep-learning |
 | Learn PyTorch | https://www.learnpytorch.io/ |
 
