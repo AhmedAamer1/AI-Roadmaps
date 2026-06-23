@@ -1,6 +1,11 @@
 # 04-Machine-Learning
 
 ## Course
+DR khaled Mostafa Elsayed
+
+https://youtu.be/mRUgi0Be2ds?si=QFDRHu7TmACYnJ4P
+
+OR
 
 Andrew Ng Machine Learning Specialization
 
