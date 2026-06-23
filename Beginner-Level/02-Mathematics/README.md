@@ -1,4 +1,4 @@
-#02 Mathematics for AI 📐
+# 02 Mathematics for AI 📐
 
 ## Courses
 
